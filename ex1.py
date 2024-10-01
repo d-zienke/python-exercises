@@ -1,13 +1,14 @@
 """
-Zadanie 1. [2:1,1] <abc> {~}
+Exercise 1.
 
-Pobierz z klawiatury trzy nieujemne liczby całkowite. Jeżeli któraś jest ujemna, powtórz
-pobieranie. Następnie znajdź największą z nich [1]. Wyświetl sumę pozostałych
-liczb tyle razy, ile wynosi wartość największej liczby [1].
+Get three non-negative integers from the keyboard. 
+If any of them are negative, get another one. 
+Then find the largest of them. 
+Display the sum of the other numbers as many times as the value of the largest number.
 """
 
 dest_count = 3
-prompt = f"Wprowadź {dest_count} nieujemne liczby całkowite"
+prompt = f"Enter {dest_count} non-negative integers"
 counter = 1
 numbers = []
 
@@ -23,8 +24,8 @@ while counter <= dest_count:
 
 max_num = max(numbers)
 nums_sum = sum(numbers)
-print(f"Największa liczba: {max_num}")
-print(f"Suma liczb: {nums_sum}")
+print(f"The highest number: {max_num}")
+# print(f"Sum of numbers: {nums_sum}")
 
 for i in range(max_num):
-    print(nums_sum)
+    print(f"Sum: {nums_sum}")
