@@ -1,1 +1,1 @@
-# Python - zbiór zadań
+# Python - collection of exercises
