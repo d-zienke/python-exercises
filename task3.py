@@ -1,5 +1,5 @@
 """
-Exercise 3.
+Task 3:
 
 Get an integer from the keyboard and check if it is divisible: 
 by 3 and by 5; 

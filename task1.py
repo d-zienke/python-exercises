@@ -1,5 +1,5 @@
 """
-Exercise 1.
+Task 1:
 
 Get three non-negative integers from the keyboard. 
 If any of them are negative, get another one. 

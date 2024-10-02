@@ -1,5 +1,5 @@
 """
-Exercise 4.
+Task 4:
 
 You have this expression: (((a1+a2)*a3)-a4)/a5 (elements a1 through a5 are of float type).
 Get each of the variables a1 through a5 from the keyboard, calculate the value of the expression and display the result. 

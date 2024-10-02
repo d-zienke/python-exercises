@@ -1,5 +1,5 @@
 """
-Exercise 2.
+Task 2:
 
 Verify the integer taken from the keyboard for parity. 
 Display an adequate message when it is or is not even.

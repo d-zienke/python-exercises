@@ -1,5 +1,5 @@
 """
-Exercise 5.
+Task 5:
 
 Get five integers from the keyboard and display how many of them were even and how many were odd.
 """
